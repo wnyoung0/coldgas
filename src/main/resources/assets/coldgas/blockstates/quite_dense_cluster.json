@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      { "model": "coldgas:block/quite_dense_cluster" },
+      { "model": "coldgas:block/quite_dense_cluster", "y": 90 },
+      { "model": "coldgas:block/quite_dense_cluster", "y": 180 },
+      { "model": "coldgas:block/quite_dense_cluster", "y": 270 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 90 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 90, "y": 90 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 90, "y": 180 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 90, "y": 270 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 180 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 180, "y": 90 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 180, "y": 180 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 180, "y": 270 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 270 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 270, "y": 90 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 270, "y": 180 },
+      { "model": "coldgas:block/quite_dense_cluster", "x": 270, "y": 270 }
+    ]
+  }
+}

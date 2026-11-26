@@ -1,0 +1,13 @@
+{
+  "itemGroup.coldgas": "Example Mod Tab",
+  "block.coldgas.example_block": "Example Block",
+  "item.coldgas.example_item": "Example Item",
+
+  "coldgas.configuration.title": "Cold Gas Configs",
+  "coldgas.configuration.section.coldgas.common.toml": "Cold Gas Configs",
+  "coldgas.configuration.section.coldgas.common.toml.title": "Cold Gas Configs",
+  "coldgas.configuration.items": "Item List",
+  "coldgas.configuration.logDirtBlock": "Log Dirt Block",
+  "coldgas.configuration.magicNumberIntroduction": "Magic Number Text",
+  "coldgas.configuration.magicNumber": "Magic Number"
+}

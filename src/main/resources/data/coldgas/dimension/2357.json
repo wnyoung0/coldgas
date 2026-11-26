@@ -1,0 +1,13 @@
+{
+  "type": "coldgas:cosmic_web",
+  "has_ender_dragon_fight": false,
+  "generator": {
+    "has_ender_dragon_fight": false,
+    "type": "coldgas:cosmic_web",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "coldgas:cosmic_web",
+      "has_skylight": "True"
+    }
+  }
+}
